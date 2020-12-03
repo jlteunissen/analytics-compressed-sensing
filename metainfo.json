@@ -1,0 +1,44 @@
+{
+  "authors": [
+    "Ahmetcik, Emre",
+    "Ziletti, Angelo",
+    "Ouyang, Runhai",
+    "Scheffler, Matthias",
+    "Ghiringhelli, Luca M."
+  ],
+  "email": "ghiringhelli@fhi-berlin.mpg.de",
+  "title": "Symbolic regression via compressed sensing: a tutorial",
+  "description": "In this tutorial we will show how to find descriptive parameters to predict materials properties using symbolic regrression combined with compressed sensing tools. The relative stability of the zincblende (ZB) versus rocksalt (RS) structure of binary materials is predicted and compared against a model trained with kernel ridge regression.",
+  "url": "https://gitlab.mpcdf.mpg.de/nomad-lab/analytics-compressed-sensing",
+  "link": "https://analytics-toolkit.nomad-coe.eu/hub/user-redirect/notebooks/tutorials/compressed_sensing.ipynb",
+  "link_public": "https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/compressed_sensing.ipynb",
+  "updated": "2019-04-05",
+  "flags":{
+    "featured": true,
+    "top_of_list": false
+  },
+  "labels": {
+    "application_keyword": [
+      "Compressed sensing",
+      "Symbolic regression",
+      "Descriptors"
+    ],
+    "application_section": [
+      "Tutorials for artificial-intelligence methods"
+    ],
+    "application_system": [
+      "Octet binary materials"
+    ],
+    "category": [
+      "Tutorial"
+    ],
+    "data_analytics_method": [
+      "LASSO",
+      "SISSO",
+      "Kernel ridge regression"
+    ],
+    "platform": [
+      "jupyter"
+    ]
+  }
+}
