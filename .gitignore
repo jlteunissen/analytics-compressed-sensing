@@ -47,6 +47,10 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+<<<<<<< HEAD
+=======
+*.py,cover
+>>>>>>> a721c2a2180dd21521f1af2e297a2d134033d88b
 .hypothesis/
 .pytest_cache/
 
@@ -92,6 +96,12 @@ ipython_config.py
 
 # celery beat schedule file
 celerybeat-schedule
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
